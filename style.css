@@ -63,20 +63,6 @@ p {
     border-bottom: 1px solid #ccc;
 }
 
-/* Experience section */
-#experience {
-    background-color: #f9f9f9;
-    padding: 60px 40px;
-    border-radius: 8px;
-}
-
-/* Job entries */
-#experience .job {
-    margin-bottom: 30px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid #ccc;
-}
-
 /* Skills section */
 #skills {
     background-color: #f9f9f9;
